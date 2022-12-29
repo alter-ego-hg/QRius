@@ -1,0 +1,16 @@
+CHEM
+Chemistry
+GK
+GK
+PHYS
+Physics
+CULT
+Culture
+SPOR
+Sports
+MATH
+Maths
+ENGL
+English
+BIOL
+Biology

@@ -1,0 +1,54 @@
+Select Option
+Login
+Leaderboards
+ESC to Exit
+Press ESC to exit
+To create new account press F2
+Login
+Username
+Password
+Select Mode
+CLASSIC
+TIME TRIAL
+ARCADE
+Select Number of Questions
+Select Time Limit
+Please select a topic to continue
+Select Topic
+Press Answer Option. TAB to pass. F2 to pause and resume
+Time:
+Out of Questions...
+Sorry, we do not have any questions for you at this time.
+Post Game
+Time Elapsed:
+Attemtped:
+Score:
+Answered Right:
+Answered Wrong:
+Passed:
+Accuracy:
+Speed:
+Leaderboard
+Name
+Date
+Game
+Score
+Speed
+Duration
+Accuracy
+ 1, 2, 3, 4 to sort
+Just Monika
+Creating...
+Username does not exist
+Invalid password
+Thank you for creating your account
+Cannot exceed 20 characters
+Username already exists
+There's a set number of questions with no time limit. 
+Right answers award +4 points, wrong ones deduct -2 points, passes grant +0 points. 
+There's a clock. There are questions. 
+Answer as many questions as you can before the clock ticks 00:00. 
+Right answers award +4 points, wrong ones deduct -1 point, passes grant +0 points. 
+There's a clock and there are questions. 
+But this time, right answers add 10 seconds to the timer, wrong ones remove 5. 
+Arrow keys to navigate, SPACE to toggle selection..
